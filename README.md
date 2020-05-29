@@ -1,2 +1,2 @@
-# DengAI
-Driven Data
+Dengue Forecasting Project
+In areas where dengue is endemic, incidence follows seasonal transmission patterns punctuated every few years by much larger epidemics. Because these epidemics are currently unpredictable and of major consequence to the affected populations, the initial focus of the pilot project will be forecasting key metrics for historical dengue seasons using only data from time periods prior to those seasons
